@@ -1,5 +1,5 @@
 Greetings, 
 
-I'm currently learning Go (Golang), Elixir, Ruby and Ruby on Rails. 
-I have some experience with PHP, HTML and CSS along with WordPress.
+I have some experience with PHP, JavaScript, HTML and CSS along with WordPress. 
+Looking to expand my knowledge of other technologies. 
 
